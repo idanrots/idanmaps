@@ -1,0 +1,43 @@
+/* CSS for Marker Adder component */
+.marker-adder {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    margin-bottom: 20px;
+  }
+  
+  .marker-adder h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .marker-adder form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .marker-adder label {
+    margin-bottom: 5px;
+  }
+  
+  .marker-adder input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .marker-adder button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .marker-adder button:hover {
+    background-color: #0056b3;
+  }
+  
